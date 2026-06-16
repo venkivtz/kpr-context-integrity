@@ -132,6 +132,32 @@ Issues and PRs welcome, particularly for:
 - Alternative chunking strategies for Tech A/B comparison baselines
 - Adapters for other LLM backends (OpenAI, Anthropic, Gemini)
 
+
+
+## Data Source
+
+This benchmark uses a publicly available clinical trial protocol obtained from ClinicalTrials.gov.
+
+**Protocol Title**
+
+A Phase II Study of MLN0128 (TAK-228) in Hormone Receptor Positive/HER2-Negative Advanced or Metastatic Breast Cancer.
+
+**ClinicalTrials.gov Identifier**
+
+NCT02756364
+
+**Original Protocol Document**
+
+https://cdn.clinicaltrials.gov/large-docs/64/NCT02756364/Prot_000.pdf
+
+**Source**
+
+ClinicalTrials.gov is a publicly accessible registry and results database of clinical studies maintained by the U.S. National Library of Medicine (NLM).
+
+This repository uses the publicly available protocol solely for benchmarking context-preservation behavior in LLM and RAG pipelines.
+
+No proprietary, confidential, patient-level, or NDA-restricted information was used.
+
 ---
 
 ## License
