@@ -1,3 +1,4 @@
+
 # KPR Validation Runner
 
 A benchmark framework for measuring **Knowledge Primitive Retention (KPR)** — a metric that quantifies how much decision-critical information survives the ingestion pipeline before reaching a language model.
@@ -136,3 +137,4 @@ Issues and PRs welcome, particularly for:
 ## License
 
 MIT
+
